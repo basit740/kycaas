@@ -1,0 +1,15 @@
+.navbar {
+	line-height: 40px;
+	background-color: rgb(74, 74, 237);
+	color: white;
+}
+.navbar a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding-left: 15px;
+}
+.navbar a:hover {
+	color: rgb(230, 221, 221);
+	cursor: pointer;
+}
