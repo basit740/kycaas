@@ -1,0 +1,12 @@
+.actions {
+	margin-top: 10px;
+}
+.actions button {
+	border-radius: 5px;
+	padding: 5px;
+	background-color: blue;
+	color: white;
+}
+.disable {
+	opacity: 0.3;
+}
